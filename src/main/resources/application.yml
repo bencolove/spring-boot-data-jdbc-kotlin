@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://10.40.40.157:1433;databaseName=italent
+    username: sa
+    password: P@ssw0rd
